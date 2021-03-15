@@ -1,0 +1,8 @@
+1,Sylwia, Mamoszka, 95021234598
+2,Adrian, Pański, 65101307345
+3,Wojciech, Król, 73033087209
+4,Patrycja, Sasik, 91091107498
+5,Adam,Gruszka,97110209765
+6,Maria,Antoninowska,96120876523
+7,Pati,Lorkowska,87030487123
+8,Ola,Wolska,65080903467

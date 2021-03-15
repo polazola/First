@@ -1,0 +1,6 @@
+9,Dagmara,Jaruszkiewicz,65112009873
+10,Janina,Śmigieł,90021723876
+11,Alan,Kraski,98110989765
+12,Lolita,Janowska,99040420987
+13,Patryk,Staszek,87020345987
+14,Marina,Lodzińska,90080989765

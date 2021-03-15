@@ -1,0 +1,11 @@
+external_patient_id,probe_number,collection_time,result,analysis,is_patient_insured,hospital_name
+1,2964,04.01.2021 07:00,T,blood,T,Klinika Reumatologii
+2,7980,05.01.2021 07:10,T,blood,T,Klinika Reumatologii
+3,7046,06.01.2021 07:20,T,blood,T,Klinika Reumatologii
+4,6629,07.01.2021 07:30,T,blood,T,Klinika Reumatologii
+4,5491,08.01.2021 07:40,T,blood,T,Klinika Reumatologii
+5,3634,09.01.2021 07:50,T,blood,T,Wojskowy w Gdyni
+6,9235,10.01.2021 08:00,T,blood,T,Wojskowy w Gdyni
+8,7641,11.01.2021 08:10,T,blood,T,Wojskowy w Gdyni
+8,4565,12.01.2021 08:20,T,blood,T,Wojskowy w Gdyni
+8,1996,13.01.2021 08:30,T,blood,T,Wojskowy w Gdyni

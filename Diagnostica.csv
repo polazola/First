@@ -1,0 +1,9 @@
+external_patient_id,analisys,probe_number,collection_time,result
+1,blood,1234,02.03.2021 19:00,True
+2,blood,4321,03.03.2021 19:00,True
+3,blood,5432,04.03.2021 19:00,True
+4,blood,2346,05.03.2021 19:00,True
+5,blood,6543,06.03.2021 19:00,True
+6,blood,2341,07.03.2021 19:00,True
+7,blood,7654,08.03.2021 19:00,True
+8,blood,3478,09.03.2021 19:00,True

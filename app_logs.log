@@ -1,0 +1,92 @@
+first_logger - ERROR - db_executer - create_analysis_table - 28 - Can not create table analysis: Can't find database
+first_logger - ERROR - db_executer - create_analysis_table - 28 - Can not create table analysis: Can't find database
+first_logger - ERROR - db_executer - create_analysis_table - 28 - Can not create table analysis: Can't find database
+first_logger - ERROR - db_handler - close_conn - 53 - Can not close connection because connection was not established:  'NoneType' object has no attribute 'close'
+first_logger - INFO - Connection_retry - wrapper - 16 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 17 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 17 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 17 - It is my 1 try to connect
+first_logger - INFO - Connection_retry - wrapper - 17 - It is my 2 try to connect
+first_logger - ERROR - db_handler - select_all_tasks - 49 - Can not fetch database patients data 
+'NoneType' object has no attribute 'cursor'
+first_logger - ERROR - db_handler - close_conn - 56 - Can not close connection because connection was not established:  'NoneType' object has no attribute 'close'
+first_logger - INFO - Connection_retry - wrapper - 17 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 17 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 17 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 17 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 17 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 17 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 17 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 17 - It is my 0 try to connect
+first_logger - ERROR - db_handler - select_all_tasks - 50 - Can not fetch database patients data 
+'NoneType' object has no attribute 'cursor'
+first_logger - ERROR - db_handler - close_conn - 57 - Can not close connection because connection was not established:  'NoneType' object has no attribute 'close'
+first_logger - ERROR - db_handler - select_all_tasks - 50 - Can not fetch database patients data 
+'NoneType' object has no attribute 'cursor'
+first_logger - ERROR - db_handler - close_conn - 57 - Can not close connection because connection was not established:  'NoneType' object has no attribute 'close'
+first_logger - INFO - Connection_retry - wrapper - 17 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 17 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 17 - It is my 1 try to connect
+first_logger - INFO - Connection_retry - wrapper - 17 - It is my 2 try to connect
+first_logger - ERROR - db_handler - select_all_tasks - 50 - Can not fetch database patients data 
+'NoneType' object has no attribute 'cursor'
+first_logger - ERROR - db_handler - close_conn - 57 - Can not close connection because connection was not established:  'NoneType' object has no attribute 'close'
+first_logger - INFO - Connection_retry - wrapper - 17 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 17 - It is my 1 try to connect
+first_logger - INFO - Connection_retry - wrapper - 17 - It is my 2 try to connect
+first_logger - ERROR - db_handler - select_all_tasks - 42 - Can not fetch database patients data 
+'NoneType' object has no attribute 'cursor'
+first_logger - ERROR - db_handler - close_conn - 49 - Can not close connection because connection was not established:  'NoneType' object has no attribute 'close'
+first_logger - INFO - Connection_retry - wrapper - 17 - It is my 1 try to connect
+first_logger - ERROR - Connection_retry - wrapper - 26 - Attemption 1 failed
+first_logger - INFO - Connection_retry - wrapper - 17 - It is my 2 try to connect
+first_logger - ERROR - Connection_retry - wrapper - 26 - Attemption 2 failed
+first_logger - INFO - Connection_retry - wrapper - 17 - It is my 3 try to connect
+first_logger - ERROR - Connection_retry - wrapper - 26 - Attemption 3 failed
+first_logger - ERROR - db_handler - select_all_tasks - 42 - Can not fetch database patients data 
+'NoneType' object has no attribute 'cursor'
+first_logger - ERROR - db_handler - close_conn - 49 - Can not close connection because connection was not established:  'NoneType' object has no attribute 'close'
+first_logger - INFO - Connection_retry - wrapper - 17 - It is my 1 try to connect
+first_logger - ERROR - Connection_retry - wrapper - 26 - The 1 attempt failed
+first_logger - INFO - Connection_retry - wrapper - 17 - It is my 2 try to connect
+first_logger - ERROR - Connection_retry - wrapper - 26 - The 2 attempt failed
+first_logger - INFO - Connection_retry - wrapper - 17 - It is my 3 try to connect
+first_logger - ERROR - Connection_retry - wrapper - 26 - The 3 attempt failed
+first_logger - ERROR - db_handler - select_all_tasks - 42 - Can not fetch database patients data 
+'NoneType' object has no attribute 'cursor'
+first_logger - ERROR - db_handler - close_conn - 49 - Can not close connection because connection was not established:  'NoneType' object has no attribute 'close'
+first_logger - INFO - Connection_retry - wrapper - 17 - It is my 1 try to connect
+first_logger - INFO - Connection_retry - wrapper - 17 - It is my 1 try to connect
+first_logger - INFO - Connection_retry - wrapper - 25 - Connection established
+first_logger - INFO - Connection_retry - wrapper - 17 - It is my 1 try to connect
+first_logger - INFO - Connection_retry - wrapper - 25 - Connection established
+first_logger - INFO - Connection_retry - wrapper - 15 - It is my 1 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - Connection_retry - wrapper - 15 - It is my 1 try to connect
+first_logger - ERROR - Connection_retry - wrapper - 26 - The 1 attempt failed
+first_logger - INFO - Connection_retry - wrapper - 15 - It is my 2 try to connect
+first_logger - ERROR - Connection_retry - wrapper - 26 - The 2 attempt failed
+first_logger - INFO - Connection_retry - wrapper - 15 - It is my 3 try to connect
+first_logger - ERROR - Connection_retry - wrapper - 26 - The 3 attempt failed
+first_logger - INFO - Connection_retry - wrapper - 15 - It is my 1 try to connect
+first_logger - ERROR - Connection_retry - wrapper - 27 - No database C:\Users\cp24\Desktop\Akademia Kodu\Project2\clinwwwic.db
+first_logger - INFO - Connection_retry - wrapper - 15 - It is my 2 try to connect
+first_logger - ERROR - Connection_retry - wrapper - 27 - No database C:\Users\cp24\Desktop\Akademia Kodu\Project2\clinwwwic.db
+first_logger - INFO - Connection_retry - wrapper - 15 - It is my 3 try to connect
+first_logger - ERROR - Connection_retry - wrapper - 27 - No database C:\Users\cp24\Desktop\Akademia Kodu\Project2\clinwwwic.db
+first_logger - INFO - Connection_retry - wrapper - 15 - It is my 1 try to connect
+first_logger - INFO - Connection_retry - wrapper - 24 - Connection established
+first_logger - INFO - Connection_retry - wrapper - 15 - It is my 1 try to connect
+first_logger - INFO - Connection_retry - wrapper - 24 - Connection established
+first_logger - INFO - Connection_retry - wrapper - 15 - It is my 1 try to connect
+first_logger - INFO - Connection_retry - wrapper - 24 - Connection established
+first_logger - INFO - Connection_retry - wrapper - 15 - It is my 1 try to connect
+first_logger - INFO - Connection_retry - wrapper - 24 - Connection established
+first_logger - INFO - Connection_retry - wrapper - 15 - It is my 1 try to connect
+first_logger - INFO - Connection_retry - wrapper - 24 - Connection established
+first_logger - INFO - Connection_retry - wrapper - 15 - It is my 1 try to connect
+first_logger - INFO - Connection_retry - wrapper - 24 - Connection established
+first_logger - INFO - Connection_retry - wrapper - 15 - It is my 1 try to connect
+first_logger - INFO - Connection_retry - wrapper - 24 - Connection established
+first_logger - INFO - Connection_retry - wrapper - 15 - It is my 1 try to connect
+first_logger - INFO - Connection_retry - wrapper - 24 - Connection established
